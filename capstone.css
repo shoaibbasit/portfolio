@@ -1,0 +1,34 @@
+
+body{
+    background-color: #CAF0F8;
+}
+.nav-link:hover{
+    border-radius: 20px;
+    background-color: #ffffff;
+}
+
+#hanging-icons > div > div  >div {
+   
+    background-color: #00b4d8;
+    border-radius: 10px;
+}
+#Skills > div >div>div>div {
+   
+    background-color: #00b4d8;
+    border-radius: 10px;
+}
+#hanging-icons > div > div {
+
+
+    border-style: double;
+   border: 10px;
+   border-color: #02090b;
+   
+   border-radius: 10px;
+}
+/*#hanging-icons > div > div > div > dl >    :hover {
+    
+    background-color: #90e0ef;
+    border-radius: 20px
+}*/
+
